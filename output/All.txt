@@ -1,0 +1,948 @@
+diseases|sub-category|reference|link
+Abdominal Aortic Aneurysm — see Aortic Aneurysm|||https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_aortic_aneurysm.htm
+Acanthamoeba Infection|||https://www.cdc.gov/parasites/acanthamoeba/
+ACE (Adverse Childhood Experiences)|||https://www.cdc.gov/nccdphp/ace/
+Acinetobacter Infection|||https://www.cdc.gov/HAI/organisms/acinetobacter.html
+Acquired Immune Deficiency Syndrome (AIDS) — see HIV/AIDS|||https://www.cdc.gov/hiv/
+Acquired Immunodeficiency Syndrome (AIDS) — see HIV/AIDS|||https://www.cdc.gov/hiv/
+Adenovirus Infection|||https://www.cdc.gov/adenovirus/index.html
+Adenovirus Vaccination|||https://www.cdc.gov/vaccines/hcp/vis/index.html
+ADHD [Attention Deficit/Hyperactivity Disorder]|||https://www.cdc.gov/ncbddd/adhd/
+Adult Vaccinations|||https://www.cdc.gov/vaccines/adults/index.html
+Adverse Childhood Experiences (ACE)|||https://www.cdc.gov/nccdphp/ace/
+AFib, AF (Atrial fibrillation)|||https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_atrial_fibrillation.htm
+African Trypanosomiasis — see Sleeping Sickness|||https://www.cdc.gov/parasites/sleepingsickness/
+Agricultural Safety — see Farm Worker Injuries|||https://www.cdc.gov/niosh/topics/aginjury/
+AHF (Alkhurma hemorrhagic fever)|||https://www.cdc.gov/vhf/alkhurma/
+AIDS (Acquired Immune Deficiency Syndrome)|||https://www.cdc.gov/hiv/
+AIDS (Acquired Immunodeficiency Syndrome)|||https://www.cdc.gov/hiv/
+Alkhurma hemorrhagic fever (AHF)|||https://www.cdc.gov/vhf/alkhurma/
+ALS [Amyotrophic Lateral Sclerosis]|||https://wwwn.cdc.gov/als/
+Alzheimer's Disease|||https://www.cdc.gov/aging/aginginfo/alzheimers.htm
+Amebiasis, Intestinal [Entamoeba histolytica infection]|||https://www.cdc.gov/parasites/amebiasis/
+American Indian and Alaska Native Vaccination|||https://www.cdc.gov/features/aianflu/
+American Trypanosomiasis — see Chagas Disease|||https://www.cdc.gov/parasites/chagas/
+Amphibians and Fish, Infections from — see Fish and Amphibians, Infections from|||https://www.cdc.gov/healthypets/pets/fish.html
+Amyotrophic Lateral Sclerosis — see ALS|||https://wwwn.cdc.gov/als/
+Anaplasmosis, Human|||https://www.cdc.gov/anaplasmosis/
+Ancylostoma duodenale Infection, Necator americanus Infection — see Human Hookworm|||https://www.cdc.gov/parasites/hookworm
+Angiostrongylus Infection|||https://www.cdc.gov/parasites/angiostrongylus/
+Animal-Related Diseases|||https://www.cdc.gov/healthypets/
+Anisakiasis — see Anisakis Infection|||https://www.cdc.gov/parasites/anisakiasis/
+Anisakis Infection [Anisakiasis]|||https://www.cdc.gov/parasites/anisakiasis/
+Anthrax [Bacillus anthracis Infection]|||https://www.cdc.gov/anthrax
+Antibiotic and Antimicrobial Resistance|||https://www.cdc.gov/drugresistance/index.html
+Antibiotic Use, Appropriate|||https://www.cdc.gov/getsmart/community/index.html
+||see also Get Smart about Antibiotics Week|https://www.cdc.gov/getsmart/week/index.html
+Aortic Aneurysm|||https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_aortic_aneurysm.htm
+Aortic Dissection — see Aortic Aneurysm|||https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_aortic_aneurysm.htm
+Arenavirus Infection|||https://www.cdc.gov/vhf/virus-families/arenaviridae.html
+Arthritis|||https://www.cdc.gov/arthritis/
+|Childhood Arthritis||https://www.cdc.gov/arthritis/basics/childhood.htm
+|Fibromyalgia||https://www.cdc.gov/arthritis/basics/fibromyalgia.htm
+|Gout||https://www.cdc.gov/arthritis/basics/gout.htm
+|Osteoarthritis (OA)||https://www.cdc.gov/arthritis/basics/osteoarthritis.htm
+|Rheumatoid Arthritis (RA)||https://www.cdc.gov/arthritis/basics/rheumatoid.htm
+Ascariasis — see Ascaris Infection|||https://www.cdc.gov/parasites/ascariasis/index.html
+Ascaris Infection [Ascariasis]|||https://www.cdc.gov/parasites/ascariasis/index.html
+Aseptic Meningitis — see Viral Meningitis|||https://www.cdc.gov/meningitis/viral.html
+Aspergillosis — see Aspergillus Infection|||https://www.cdc.gov/fungal/diseases/aspergillosis/index.html
+Aspergillus Infection [Aspergillosis]|||https://www.cdc.gov/fungal/diseases/aspergillosis/index.html
+Asthma|||https://www.cdc.gov/asthma
+Atrial fibrillation (AFib, AF)|||https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_atrial_fibrillation.htm
+Attention Deficit/Hyperactivity Disorder — see ADHD|||https://www.cdc.gov/ncbddd/adhd/
+Autism|||https://www.cdc.gov/ncbddd/autism
+||see also Genetics and Genomics|https://www.cdc.gov/genomics/
+Avian Influenza|||https://www.cdc.gov/flu/avianflu/
+B virus Infection [Herpes B virus]|||https://www.cdc.gov/herpesbvirus/index.html
+B. cepacia infection (Burkholderia cepacia Infection)|||https://www.cdc.gov/HAI/organisms/bCepacia.html
+Babesia Infection — see Babesiosis|||https://www.cdc.gov/parasites/babesiosis/
+Babesiosis [Babesia Infection]|||https://www.cdc.gov/parasites/babesiosis/
+Bacillus anthracis — see Anthrax|||https://www.cdc.gov/anthrax
+Bacillus anthracis Infection — see Anthrax|||https://www.cdc.gov/anthrax
+Back Belts — see Ergonomic and Musculoskeletal Disorders|||https://www.cdc.gov/niosh/topics/ergonomics/
+Bacterial Meningitis|||https://www.cdc.gov/meningitis/bacterial.html
+||see also Meningitis [Meningococcal Disease]|https://www.cdc.gov/meningitis/
+Bacterial Vaginosis (BV)|||https://www.cdc.gov/std/bv/default.htm
+Balamuthia mandrillaris Infection — see Balamuthia Infection|||https://www.cdc.gov/parasites/balamuthia
+Balamuthia Infection [Balamuthia mandrillaris Infection]|||https://www.cdc.gov/parasites/balamuthia
+Balantidiasis — see Balantidium Infection|||https://www.cdc.gov/parasites/balantidium/
+Balantidium Infection [Balantidiasis]|||https://www.cdc.gov/parasites/balantidium/
+Bartonella bacilliformis Infection — see Carrión’s disease|||https://www.cdc.gov/bartonella
+Bartonella quintana Infection — see Trench fever|||https://www.cdc.gov/bartonella
+Baylisascaris Infection — see Raccoon Roundworm Infection|||https://www.cdc.gov/parasites/baylisascaris/index.html
+BCG (Tuberculosis Vaccine)|||https://www.cdc.gov/tb/topic/vaccines/default.htm
+Bilharzia — see Schistosomiasis|||https://www.cdc.gov/parasites/schistosomiasis/
+Bioterrorism Agents/Diseases|||https://emergency.cdc.gov/agent/agentlist.asp
+Bird Flu — see Avian Influenza|||https://www.cdc.gov/flu/avianflu/
+Birth Defects|||https://www.cdc.gov/ncbddd/birthdefects/index.html
+Black Lung [Coal Workers' Pneumoconioses]|||https://www.cdc.gov/niosh/topics/pneumoconioses/
+Blast Injuries|||https://emergency.cdc.gov/masscasualties/
+Blastocystis hominis Infection — see Blastocystis Infection|||https://www.cdc.gov/parasites/blastocystis/
+Blastocystis Infection [Blastocystis hominis Infection]|||https://www.cdc.gov/parasites/blastocystis/
+blood clot|||https://www.cdc.gov/ncbddd/dvt/index.html
+Blood Disorders|||https://www.cdc.gov/ncbddd/blooddisorders/index.html
+Body Lice [Pediculus humanus corporis]|||https://www.cdc.gov/parasites/lice/body/
+Borrelia burgdorferi Infection — see Lyme Disease|||https://www.cdc.gov/lyme/
+Botulism [Clostridium botulinum Infection]|||https://www.cdc.gov/botulism/
+Bovine Spongiform Encephalopathy (BSE)|||https://www.cdc.gov/prions/bse/index.html
+Brainerd Diarrhea|||https://www.cdc.gov/ncezid/dfwed/diseases/brainerd-diarrhea/
+Breast and Ovarian Cancer and Family Health History|||https://www.cdc.gov/genomics/resources/diseases/breast_ovarian_cancer/
+||see also Breast and Ovarian Cancer and Family Health History|https://www.cdc.gov/genomics/resources/diseases/breast_ovarian_cancer/
+Breast Cancer|||https://www.cdc.gov/cancer/breast/
+||see also National Breast and Cervical Cancer Early Detection Program (NBCCEDP)|https://www.cdc.gov/cancer/nbccedp/
+Breastfeeding|||https://www.cdc.gov/breastfeeding/
+Bronchiolitis — see Respiratory Syncytial Virus Infection|||https://www.cdc.gov/rsv/
+Bronchitis|||https://www.cdc.gov/getsmart/antibiotic-use/URI/bronchitis.html
+Brucella Infection [Brucellosis]|||https://www.cdc.gov/brucellosis/index.html
+Brucellosis — see Brucella Infection|||https://www.cdc.gov/brucellosis/index.html
+BSE (Bovine Spongiform Encephalopathy)|||https://www.cdc.gov/prions/bse/index.html
+BSE (Mad Cow Disease)|||https://www.cdc.gov/prions/bse/index.html
+Burkholderia cepacia Infection (B. cepacia infection)|||https://www.cdc.gov/HAI/organisms/bCepacia.html
+Burkholderia mallei — see Glanders|||https://www.cdc.gov/glanders/
+Burkholderia pseudomallei Infection — see Melioidosis|||https://www.cdc.gov/melioidosis/index.html
+BV (Bacterial Vaginosis)|||https://www.cdc.gov/std/bv/default.htm
+C. diff. Infection [Clostridium difficile Infection]|||https://www.cdc.gov/HAI/organisms/cdiff/Cdiff_infect.html
+C. gattii cryptococcosis|||https://www.cdc.gov/fungal/diseases/cryptococcosis-gattii/index.html
+C. neoformans cryptococcosis|||https://www.cdc.gov/fungal/diseases/cryptococcosis-neoformans/index.html
+Campylobacter Infection [Campylobacteriosis]|||https://www.cdc.gov/foodsafety/diseases/campylobacter/index.html
+Campylobacteriosis — see Campylobacter Infection|||https://www.cdc.gov/foodsafety/diseases/campylobacter/index.html
+Cancer|||https://www.cdc.gov/cancer/
+|Colorectal (Colon) Cancer||https://www.cdc.gov/cancer/colorectal/
+|Gynecologic Cancers||https://www.cdc.gov/cancer/gynecologic/
+|Lung Cancer||https://www.cdc.gov/cancer/lung/
+|Prostate Cancer||https://www.cdc.gov/cancer/prostate/index.htm
+|Skin Cancer||https://www.cdc.gov/cancer/skin/
+||see also Breast Cancer|https://www.cdc.gov/cancer/breast/
+Cancer and Flu|||https://www.cdc.gov/cancer/flu/
+||see also Cancer|https://www.cdc.gov/cancer/
+||see also Influenza|https://www.cdc.gov/flu/index.htm
+Cancer Health Disparities — see Health Disparities in Cancer|||https://www.cdc.gov/cancer/healthdisparities/
+Candida Infection [Candidiasis]|||https://www.cdc.gov/fungal/diseases/candidiasis/index.html
+|Genital Candidiasis (VVC) [Vulvovaginal Candidiasis]||https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html
+|Invasive Candidiasis||https://www.cdc.gov/fungal/diseases/candidiasis/invasive/index.html
+|Thrush [Oropharyngeal Candidiasis]||https://www.cdc.gov/fungal/diseases/candidiasis/thrush/index.html
+Candidiasis — see Candida Infection|||https://www.cdc.gov/fungal/diseases/candidiasis/index.html
+Canine Flu|||https://www.cdc.gov/flu/canine/
+Capillaria Infection [Capillariasis]|||https://www.cdc.gov/parasites/capillaria
+Capillariasis — see Capillaria Infection|||https://www.cdc.gov/parasites/capillaria
+Carbapenem resistant Klebsiella pneumonia  (CRKP) — see Klebsiella pneumoniae|||https://www.cdc.gov/HAI/organisms/klebsiella/klebsiella.html
+Carbapenem-resistant Enterobacteriaceae (CRE)|||https://www.cdc.gov/HAI/organisms/cre/
+Cardiovascular Health — see Heart Disease|||https://www.cdc.gov/heartdisease/
+Carpal Tunnel Syndrome — see Ergonomic and Musculoskeletal Disorders|||https://www.cdc.gov/niosh/topics/ergonomics/
+Carrión’s disease [Bartonella bacilliformis Infection]|||https://www.cdc.gov/bartonella
+Cat Flea Tapeworm — see Tapeworm, Dog and Cat Flea|||https://www.cdc.gov/parasites/dipylidium/
+Cat Scratch Disease from Pets|||https://www.cdc.gov/healthypets/diseases/cat-scratch.html
+Cats, Infections from|||https://www.cdc.gov/healthypets/animals/cats.htm
+CCHF (Crimean-Congo hemorrhagic fever)|||https://www.cdc.gov/vhf/crimean-congo/
+CDI (Chronic Disease Indicators )|||https://www.cdc.gov/cdi/
+Cercarial Dermatitis — see Swimmer's Itch|||https://www.cdc.gov/parasites/swimmersitch/
+Cerebral Palsy|||https://www.cdc.gov/ncbddd/dd/ddcp.htm
+Cervical Cancer|||https://www.cdc.gov/cancer/cervical/
+||see also National Breast and Cervical Cancer Early Detection Program (NBCCEDP)|https://www.cdc.gov/cancer/nbccedp/
+CFS (Chronic Fatigue Syndrome)|||https://www.cdc.gov/cfs
+Chagas Disease [Trypanosoma cruzi Infection]|||https://www.cdc.gov/parasites/chagas/
+Chapare Hemorrhagic Fever (CHHF)|||https://www.cdc.gov/vhf/chapare/index.html
+Chest Cold — see Bronchitis|||https://www.cdc.gov/getsmart/antibiotic-use/URI/bronchitis.html
+CHHF (Chapare Hemorrhagic Fever)|||https://www.cdc.gov/vhf/chapare/index.html
+Chickenpox [Varicella Disease]|||https://www.cdc.gov/chickenpox/index.html
+Chickenpox Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/varicella/default.htm
+Chikungunya Fever (CHIKV)|||https://www.cdc.gov/chikungunya/
+CHIKV (Chikungunya Fever)|||https://www.cdc.gov/chikungunya/
+Childhood Arthritis|||https://www.cdc.gov/arthritis/basics/childhood.htm
+Childhood Injuries|||https://www.cdc.gov/health/childhood.htm
+Childhood Overweight and Obesity|||https://www.cdc.gov/obesity/childhood/index.html
+Children's Cough and Cold Medicines — see Cough and Cold Medicines|||https://www.cdc.gov/Features/PediatricColdMeds/
+Chlamydia [Chlamydia trachomatis Disease]|||https://www.cdc.gov/std/chlamydia/default.htm
+Chlamydia trachomatis Disease — see Chlamydia|||https://www.cdc.gov/std/chlamydia/default.htm
+Chlamydophila (Chlamydia) pneumoniae Infection|||https://www.cdc.gov/pneumonia/atypical/cpneumoniae/index.html
+Cholera [Vibrio cholerae Infection]|||https://www.cdc.gov/cholera/
+Chronic Disease Indicators  (CDI)|||https://www.cdc.gov/cdi/
+Chronic Disease Prevention|||https://www.cdc.gov/nccdphp/
+Chronic Fatigue Syndrome (CFS)|||https://www.cdc.gov/cfs
+Chronic Kidney Disease (CKD)|||https://www.cdc.gov/ckd
+Chronic Obstructive Pulmonary Disease (COPD)|||https://www.cdc.gov/copd/
+Chronic Wasting Disease (CWD)|||https://www.cdc.gov/prions/cwd/index.html
+Ciguatera Fish Poisoning|||https://www.cdc.gov/nceh/ciguatera/default.htm
+Ciguatoxin — see Marine Toxins|||https://www.cdc.gov/nczved/divisions/dfbmd/diseases/marine_toxins
+CJD, Classic (Classic Creutzfeldt-Jakob Disease)|||https://www.cdc.gov/prions/cjd/index.html
+CKD (Chronic Kidney Disease)|||https://www.cdc.gov/ckd
+CKD (Kidney Disease)|||https://www.cdc.gov/ckd
+Classic Creutzfeldt-Jakob Disease (CJD, Classic)|||https://www.cdc.gov/prions/cjd/index.html
+Clonorchiasis — see Clonorchis Infection|||https://www.cdc.gov/parasites/clonorchis/
+Clonorchis Infection [Clonorchiasis]|||https://www.cdc.gov/parasites/clonorchis/
+Clostridium botulinum Infection — see Botulism|||https://www.cdc.gov/botulism/
+Clostridium difficile Infection — see C. diff. Infection|||https://www.cdc.gov/HAI/organisms/cdiff/Cdiff_infect.html
+Clostridium perfringens infection|||https://www.cdc.gov/foodsafety/diseases/clostridium-perfringens.html
+Clostridium tetani Infection — see Tetanus Disease|||https://www.cdc.gov/tetanus/index.html
+Clotting Disorders|||https://www.cdc.gov/ncbddd/hemophilia/diagnosis.html
+CMV (Cytomegalovirus Infection)|||https://www.cdc.gov/cmv/index.html
+Coal Workers' Pneumoconioses — see Black Lung|||https://www.cdc.gov/niosh/topics/pneumoconioses/
+Coccidioidomycosis — see Valley Fever|||https://www.cdc.gov/fungal/diseases/coccidioidomycosis/index.html
+Cold, Common|||https://www.cdc.gov/features/rhinoviruses/
+Colorado Tick Fever (CTF)|||https://www.cdc.gov/coloradotickfever/
+Colorectal (Colon) Cancer|||https://www.cdc.gov/cancer/colorectal/
+|Colorectal Cancer Control Program (CRCCP)||https://www.cdc.gov/cancer/crccp/
+Colorectal Cancer and Genetics|||https://www.cdc.gov/genomics/resources/diseases/colorectal.htm
+||see also Colorectal (Colon) Cancer|https://www.cdc.gov/cancer/colorectal/
+||see also Genetics and Genomics|https://www.cdc.gov/genomics/
+Common Cold — see Cold, Common|||https://www.cdc.gov/features/rhinoviruses/
+Concussion — see Traumatic Brain Injury|||https://www.cdc.gov/TraumaticBrainInjury/
+Congenital Hearing Loss — see Hearing Loss in Children|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Congenital Heart Defects|||https://www.cdc.gov/ncbddd/heartdefects/
+|Screening for Critical Congenital Heart Defects||https://www.cdc.gov/ncbddd/heartdefects/screening.html
+Conjunctivitis — see Pink Eye|||https://www.cdc.gov/conjunctivitis/index.html
+Cooley's Anemia|||https://www.cdc.gov/ncbddd/thalassemia/
+COPD (Chronic Obstructive Pulmonary Disease)|||https://www.cdc.gov/copd/
+Corynebacterium diphtheriae Infection — see Diphtheria|||https://www.cdc.gov/diphtheria/clinicians.html
+Cough and Cold Medicines|||https://www.cdc.gov/Features/PediatricColdMeds/
+Coxiella burnetii Infection — see Q Fever|||https://www.cdc.gov/qfever
+CRE (Carbapenem-resistant Enterobacteriaceae)|||https://www.cdc.gov/HAI/organisms/cre/
+Creutzfeldt-Jakob Disease, Classic — see Classic Creutzfeldt-Jakob Disease|||https://www.cdc.gov/prions/cjd/index.html
+Crimean-Congo hemorrhagic fever (CCHF) [Nairovirus Infection]|||https://www.cdc.gov/vhf/crimean-congo/
+CRKP (Carbapenem resistant Klebsiella pneumonia )|||https://www.cdc.gov/HAI/organisms/klebsiella/klebsiella.html
+Crohn’s Disease — see Inflammatory Bowel Disease|||https://www.cdc.gov/ibd/
+Cronobacter Infection|||https://www.cdc.gov/cronobacter
+Cryptococcosis, C. gattii. — see C. gattii cryptococcosis|||https://www.cdc.gov/fungal/diseases/cryptococcosis-gattii/index.html
+Cryptococcosis, C. neoformans — see C. neoformans cryptococcosis|||https://www.cdc.gov/fungal/diseases/cryptococcosis-neoformans/index.html
+Cryptosporidiosis — see Cryptosporidium Infection|||https://www.cdc.gov/parasites/crypto
+Cryptosporidium Infection [Cryptosporidiosis]|||https://www.cdc.gov/parasites/crypto
+CTF (Colorado Tick Fever)|||https://www.cdc.gov/coloradotickfever/
+CWD (Chronic Wasting Disease)|||https://www.cdc.gov/prions/cwd/index.html
+cyanobacterial algal bloom-associated illness — see Harmful Algal Bloom (HAB)-Associated Illness|||https://www.cdc.gov/habs/index.html
+Cyclospora Infection [Cyclosporiasis]|||https://www.cdc.gov/parasites/cyclosporiasis/
+Cyclosporiasis — see Cyclospora Infection|||https://www.cdc.gov/parasites/cyclosporiasis/
+Cysticercosis|||https://www.cdc.gov/parasites/cysticercosis/
+Cystoisospora Infection [Cystoisosporiasis]|||https://www.cdc.gov/parasites/cystoisospora/index.html
+Cystoisosporiasis — see Cystoisospora Infection|||https://www.cdc.gov/parasites/cystoisospora/index.html
+Cytomegalovirus Infection (CMV)|||https://www.cdc.gov/cmv/index.html
+Death, Leading Causes of Death in Males|||https://www.cdc.gov/men/lcod/index.htm
+||see also Mortality Data|https://www.cdc.gov/nchs/deaths.htm
+Deep Vein Thrombosis (DVT)|||https://www.cdc.gov/ncbddd/dvt/index.html
+Dengue Fever (DF)|||https://www.cdc.gov/Dengue
+Dengue Hemorrhagic Fever (DHF) — see Dengue Fever|||https://www.cdc.gov/Dengue
+Dermatophyte Infection — see Ringworm|||https://www.cdc.gov/fungal/diseases/ringworm/index.html
+Developmental Disabilities|||https://www.cdc.gov/ncbddd/dd/default.htm
+DF (Dengue Fever)|||https://www.cdc.gov/Dengue
+DHF (Dengue Hemorrhagic Fever)|||https://www.cdc.gov/Dengue
+Diabetes|||https://www.cdc.gov/diabetes
+Dientamoeba fragilis Infection|||https://www.cdc.gov/parasites/dientamoeba/
+Diet and Nutrition — see Nutrition|||https://www.cdc.gov/nccdphp/dnpa/nutrition.htm
+Diphtheria [Corynebacterium diphtheriae Infection]|||https://www.cdc.gov/diphtheria/clinicians.html
+Diphtheria Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/diphtheria/default.htm
+Diphyllobothriasis — see Diphyllobothrium Infection|||https://www.cdc.gov/parasites/diphyllobothrium/
+Diphyllobothrium Infection [Diphyllobothriasis]|||https://www.cdc.gov/parasites/diphyllobothrium/
+Dipylidium Infection — see Tapeworm, Dog and Cat Flea|||https://www.cdc.gov/parasites/dipylidium/
+Dirofilariasis (Dog Heartworm)|||https://www.cdc.gov/parasites/dirofilariasis/
+Division of Public Health Systems and Workforce Development (DPHSWD)|||https://www.cdc.gov/globalhealth/dphswd
+Division of Public Health Systems and Workforce Development (DPHSWD) — see Division of Public Health Systems and Workforce Development|||https://www.cdc.gov/globalhealth/dphswd
+Dog Bites|||https://www.cdc.gov/features/dog-bite-prevention/index.html
+Dog Flea Tapeworm — see Tapeworm, Dog and Cat Flea|||https://www.cdc.gov/parasites/dipylidium/
+Dog Heartworm [Dirofilaria] — see Dirofilariasis (Dog Heartworm)|||https://www.cdc.gov/parasites/dirofilariasis/
+Dogs, Infections from|||https://www.cdc.gov/healthypets/animals/dogs.htm
+Down Syndrome [Trisomy 21]|||https://www.cdc.gov/ncbddd/birthdefects/DownSyndrome.html
+DPHSWD (Division of Public Health Systems and Workforce Development)|||https://www.cdc.gov/globalhealth/dphswd
+Dracunculiasis — see Guinea Worm Disease|||https://www.cdc.gov/parasites/guineaworm/
+Drug Resistance — see Antibiotic and Antimicrobial Resistance|||https://www.cdc.gov/drugresistance/index.html
+DVT (Deep Vein Thrombosis)|||https://www.cdc.gov/ncbddd/dvt/index.html
+Dwarf Tapeworm [Hymenolepis Infection]|||https://www.cdc.gov/parasites/hymenolepis/
+E. coli Infection [Escherichia coli Infection]|||https://www.cdc.gov/ecoli/
+Ear Infection [Otitis Media]|||https://www.cdc.gov/getsmart/community/for-patients/common-illnesses/ear-infection.html
+Early Hearing Detection and Intervention (EHDI) — see Hearing, Early Detection & Intervention|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Eastern Equine Encephalitis (EEE)|||https://www.cdc.gov/EasternEquineEncephalitis/
+Ebola Virus Disease (EVD)|||https://www.cdc.gov/vhf/ebola/
+EBV Infection (Epstein-Barr Virus Infection)|||https://www.cdc.gov/epstein-barr/index.html
+Echinococcosis|||https://www.cdc.gov/parasites/echinococcosis/
+EEE (Eastern Equine Encephalitis)|||https://www.cdc.gov/EasternEquineEncephalitis/
+EHDI (Early Hearing Detection and Intervention)|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Ehrlichiosis, Human|||https://www.cdc.gov/ehrlichiosis/
+Elephantiasis — see Lymphatic Filariasis|||https://www.cdc.gov/parasites/lymphaticfilariasis/
+Elizabethkingia Infection|||https://www.cdc.gov/elizabethkingia/index.html
+Emerging Infectious Diseases|||https://www.cdc.gov/ncidod/diseases/eid/index.htm
+Endophthalmitis, Fungal — see Fungal Eye Infections|||https://www.cdc.gov/fungal/diseases/fungal-eye-infections/index.html
+Entamoeba histolytica infection — see Amebiasis, Intestinal|||https://www.cdc.gov/parasites/amebiasis/
+Enteric Diseases from Animals — see Gastrointestinal Diseases from Animals|||https://www.cdc.gov/zoonotic/gi/index.html
+Enterobius vermicularis Infection — see Pinworm Infection|||https://www.cdc.gov/parasites/pinworm/
+Enterovirus D68|||https://www.cdc.gov/non-polio-enterovirus/about/EV-D68.html
+Enterovirus Infections (Non-Polio) — see Non-Polio Enterovirus Infections|||https://www.cdc.gov/non-polio-enterovirus/index.html
+Epidemic Typhus — see Typhus Fevers|||https://wwwnc.cdc.gov/travel/yellowBookCh4-Rickettsial.aspx
+Epilepsy|||https://www.cdc.gov/Epilepsy
+Epstein-Barr Virus Infection (EBV Infection)|||https://www.cdc.gov/epstein-barr/index.html
+Ergonomic and Musculoskeletal Disorders|||https://www.cdc.gov/niosh/topics/ergonomics/
+Escherichia coli Infection — see E. coli Infection|||https://www.cdc.gov/ecoli/
+Esophageal Candidiasis — see Thrush|||https://www.cdc.gov/fungal/diseases/candidiasis/thrush/index.html
+EV-D68 — see Enterovirus D68|||https://www.cdc.gov/non-polio-enterovirus/about/EV-D68.html
+EVD (Ebola Virus Disease)|||https://www.cdc.gov/vhf/ebola/
+Exserohilum rostratum (Other Pathogenic Fungi)|||https://www.cdc.gov/fungal/diseases/other/index.html
+||see also Fungal diseases [Mycotic diseases]|https://www.cdc.gov/fungal/index.html
+Extensively Drug-Resistant TB (XDR TB)|||https://www.cdc.gov/tb/topic/drtb/xdrtb.htm
+Extreme Cold [Hypothermia]|||https://emergency.cdc.gov/disasters/winter/
+Extreme Heat [Hyperthermia]|||https://emergency.cdc.gov/disasters/extremeheat/index.asp
+Falls from Elevation|||https://www.cdc.gov/niosh/topics/falls/
+Falls, Older Adults|||https://www.cdc.gov/HomeandRecreationalSafety/Falls/index.html
+Family Health|||https://www.cdc.gov/family
+Family Health History|||https://www.cdc.gov/genomics/famhistory/index.htm
+Family Health History and Breast and Ovarian Cancer — see Breast and Ovarian Cancer and Family Health History|||https://www.cdc.gov/genomics/resources/diseases/breast_ovarian_cancer/
+Farm Animals, Infections from|||https://www.cdc.gov/healthypets/index.html
+Farm Worker Injuries|||https://www.cdc.gov/niosh/topics/aginjury/
+||see also Cost-effective Rollover Protective Structures (CROPS)|https://www.cdc.gov/niosh/topics/aginjury/crops/
+Fasciitis, Necrotizing — see Group A Strep Infection|||https://www.cdc.gov/groupAstrep/index.html
+Fasciola Infection [Fascioliasis]|||https://www.cdc.gov/parasites/fasciola/index.html
+Fascioliasis — see Fasciola Infection|||https://www.cdc.gov/parasites/fasciola/index.html
+Fasciolopsiasis — see Fasciolopsis Infection|||https://www.cdc.gov/parasites/fasciolopsis/index.html
+Fasciolopsis Infection [Fasciolopsiasis]|||https://www.cdc.gov/parasites/fasciolopsis/index.html
+Fetal Alcohol Spectrum Disorder|||https://www.cdc.gov/ncbddd/fasd/
+FETP — see Field Epidemiology Training Program|||https://www.cdc.gov/globalhealth/fetp/
+FETP (Field Epidemiology Training Program)|||https://www.cdc.gov/globalhealth/fetp/
+Fibromyalgia|||https://www.cdc.gov/arthritis/basics/fibromyalgia.htm
+Field Epidemiology Training Program (FETP)|||https://www.cdc.gov/globalhealth/fetp/
+Fifth Disease [Parvovirus B19 Infection]|||https://www.cdc.gov/parvovirusB19/index.html
+Filariasis, Lymphatic — see Lymphatic Filariasis|||https://www.cdc.gov/parasites/lymphaticfilariasis/
+Fish and Amphibians, Infections from|||https://www.cdc.gov/healthypets/pets/fish.html
+Flavorings-Related Lung Disease|||https://www.cdc.gov/niosh/topics/flavorings/
+Flu — see Influenza|||https://www.cdc.gov/flu/index.htm
+Flu and Cancer — see Cancer and Flu|||https://www.cdc.gov/cancer/flu/
+Flu Vaccination — see Influenza Vaccination|||https://www.cdc.gov/flu/index.htm
+Flu, Pandemic — see Pandemic Flu|||https://www.cdc.gov/flu/pandemic-resources/
+Flu, Seasonal — see Seasonal Flu|||https://www.cdc.gov/flu/
+Folliculitis — see Hot Tub Rash|||https://www.cdc.gov/healthyswimming/derm.htm
+Food Poisoning — see Foodborne Illness|||https://www.cdc.gov/foodsafety/foodborne-germs.html
+Food-Related Diseases|||https://www.cdc.gov/foodsafety/diseases/clostridium-perfringens.html
+|Clostridium perfringens infection||https://www.cdc.gov/foodsafety/diseases/clostridium-perfringens.html
+|Shigella Infection [Shigellosis]||https://www.cdc.gov/shigella/index.html
+Foodborne Illness|||https://www.cdc.gov/foodsafety/foodborne-germs.html
+Fragile X Syndrome (FXS)|||https://www.cdc.gov/ncbddd/single_gene/fragilex.htm
+Francisella tularensis Infection — see Tularemia|||https://www.cdc.gov/Tularemia/
+Fungal diseases [Mycotic diseases]|||https://www.cdc.gov/fungal/index.html
+|C. gattii cryptococcosis||https://www.cdc.gov/fungal/diseases/cryptococcosis-gattii/index.html
+|C. neoformans cryptococcosis||https://www.cdc.gov/fungal/diseases/cryptococcosis-neoformans/index.html
+|Candida Infection [Candidiasis]||https://www.cdc.gov/fungal/diseases/candidiasis/index.html
+|Histoplasma capsulatum Infection [Histoplasmosis]||https://www.cdc.gov/fungal/diseases/histoplasmosis/index.html
+|Aspergillus Infection [Aspergillosis]||https://www.cdc.gov/fungal/diseases/aspergillosis/index.html
+|Blastomycosis [Blastomyces dermatitidis  Infection]||https://www.cdc.gov/fungal/diseases/blastomycosis/index.html
+|Blastomycosis [Blastomyces dermatitidis infection]||https://www.cdc.gov/fungal/diseases/blastomycosis/index.html
+|Fungal Eye Infections||https://www.cdc.gov/fungal/diseases/fungal-eye-infections/index.html
+|Histoplasmosis [Histoplasma capsulatum Infection]||https://www.cdc.gov/fungal/diseases/histoplasmosis/index.html
+|Mucormycosis||https://www.cdc.gov/fungal/diseases/mucormycosis/index.html
+|Pneumocystis pneumonia (PCP) [Pneumocystis jirovecii pneumonia (previously Pneumocystis carinii) ]||https://www.cdc.gov/fungal/diseases/pneumocystis-pneumonia/
+|Ringworm [Dermatophyte Infection]||https://www.cdc.gov/fungal/diseases/ringworm/index.html
+|Sporotrichosis||https://www.cdc.gov/fungal/diseases/sporotrichosis/index.html
+|Sporotrichosis [Sporothrix schenckii infection]||https://www.cdc.gov/fungal/diseases/sporotrichosis/index.html
+|Valley Fever [Coccidioidomycosis]||https://www.cdc.gov/fungal/diseases/coccidioidomycosis/index.html
+||see also Mold|https://www.cdc.gov/mold
+Fungal Eye Infections|||https://www.cdc.gov/fungal/diseases/fungal-eye-infections/index.html
+Fungal Meningitis|||https://www.cdc.gov/meningitis/fungal.html
+||see also Meningitis [Meningococcal Disease]|https://www.cdc.gov/meningitis/
+Fungal Pneumonia — see Valley Fever|||https://www.cdc.gov/fungal/diseases/coccidioidomycosis/index.html
+FXS (Fragile X Syndrome)|||https://www.cdc.gov/ncbddd/single_gene/fragilex.htm
+GAE (Acanthamoeba) (Granulomatous Amebic Encephalitis (Acanthamoeba))|||https://www.cdc.gov/parasites/acanthamoeba/
+GAE (Granulomatous amebic encephalitis)|||https://www.cdc.gov/parasites/balamuthia
+GAS (Group A Strep Infection)|||https://www.cdc.gov/groupAstrep/index.html
+Gastrointestinal Diseases from Animals [Zoonotic enteric diseases]|||https://www.cdc.gov/zoonotic/gi/index.html
+GBS (Group B Strep Infection)|||https://www.cdc.gov/groupbstrep/index.html
+GBS and Menactra Meningococcal Vaccine — see Guillain-Barré Syndrome and Menactra Meningococcal Vaccine|||https://www.cdc.gov/vaccinesafety/Concerns/gbsfactsheet.html
+GDDER (Global Disease Detection and Emergency Response)|||https://www.cdc.gov/globalhealth/gdder/
+Genetics and Colorectal Cancer — see Colorectal Cancer and Genetics|||https://www.cdc.gov/genomics/resources/diseases/colorectal.htm
+Genetics and Heart Disease — see Heart Disease and Genetics|||https://www.cdc.gov/genomics/resources/diseases/heart.htm
+Genetics and Mental Health — see Mental Health and Genetics|||https://www.cdc.gov/genomics/resources/diseases/mental.htm
+Genetics and Obesity — see Obesity and Genetics|||https://www.cdc.gov/genomics/resources/diseases/obesity/index.htm
+Genetics and Skin Cancer — see Skin Cancer and Genetics|||https://www.cdc.gov/genomics/resources/diseases/skin.htm
+Genetics and Stroke — see Stroke and Genetics|||https://www.cdc.gov/genomics/resources/diseases/stroke.htm
+Genital Candidiasis (VVC) [Vulvovaginal Candidiasis]|||https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html
+Genital Herpes [Herpes Simplex Virus Infection]|||https://www.cdc.gov/std/Herpes/default.htm
+Genital Warts — see Human Papillomavirus Infection|||https://www.cdc.gov/hpv/
+German Measles (Rubella Virus)|||https://www.cdc.gov/rubella/index.html
+Giardia Infection [Giardiasis]|||https://www.cdc.gov/parasites/giardia/
+Giardiasis — see Giardia Infection|||https://www.cdc.gov/parasites/giardia/
+Glanders [Burkholderia mallei]|||https://www.cdc.gov/glanders/
+Global Disease Detection and Emergency Response (GDDER)|||https://www.cdc.gov/globalhealth/gdder/
+Global Health Security|||https://www.cdc.gov/globalhealth/security/
+||see also Global Health|https://www.cdc.gov/globalhealth/
+Global Measles Elimination|||https://www.cdc.gov/globalhealth/measles/
+||see also Global Health|https://www.cdc.gov/globalhealth/
+||see also Global Measles Elimination|https://www.cdc.gov/globalhealth/measles/
+||see also Immunization|https://www.cdc.gov/vaccines/
+||see also Measles|https://www.cdc.gov/measles/index.html
+||see also Measles Vaccination|https://www.cdc.gov/vaccines/vpd-vac/measles/default.htm
+Gnathostoma Infection — see Gnathostomiasis|||https://www.cdc.gov/parasites/gnathostoma/
+Gnathostomiasis [Gnathostoma Infection]|||https://www.cdc.gov/parasites/gnathostoma/
+Gonorrhea [Neisseria gonorrhoeae Infection]|||https://www.cdc.gov/std/Gonorrhea/
+Gout|||https://www.cdc.gov/arthritis/basics/gout.htm
+Granulomatous amebic encephalitis (GAE) — see Balamuthia Infection|||https://www.cdc.gov/parasites/balamuthia
+Granulomatous Amebic Encephalitis (Acanthamoeba) (GAE (Acanthamoeba)) — see Acanthamoeba Infection|||https://www.cdc.gov/parasites/acanthamoeba/
+Group A Strep Infection (GAS) [Group A Streptococcal Infection]|||https://www.cdc.gov/groupAstrep/index.html
+Group A Streptococcal Infection — see Group A Strep Infection|||https://www.cdc.gov/groupAstrep/index.html
+Group B Strep Infection (GBS) [Group B Streptococcal Infection]|||https://www.cdc.gov/groupbstrep/index.html
+Group B Streptococcal Infection — see Group B Strep Infection|||https://www.cdc.gov/groupbstrep/index.html
+Guillain-Barré Syndrome and Menactra Meningococcal Vaccine|||https://www.cdc.gov/vaccinesafety/Concerns/gbsfactsheet.html
+Guinea Worm Disease [Dracunculiasis]|||https://www.cdc.gov/parasites/guineaworm/
+Gynecologic Cancers|||https://www.cdc.gov/cancer/gynecologic/
+|Cervical Cancer||https://www.cdc.gov/cancer/cervical/
+|Ovarian Cancer||https://www.cdc.gov/cancer/ovarian/index.htm
+|Uterine Cancer||https://www.cdc.gov/cancer/uterine/
+|Vaginal and Vulvar Cancers||https://www.cdc.gov/cancer/vagvulv/
+H3N2v influenza|||https://www.cdc.gov/flu/swineflu/h3n2v-cases.htm
+||see also Variant Viruses - see Influenza|https://www.cdc.gov/flu/swineflu/variant.htm
+H5N1 — see Avian Influenza|||https://www.cdc.gov/flu/avianflu/
+HAB (Harmful Algal Bloom (HAB)-Associated Illness )|||https://www.cdc.gov/habs/index.html
+Haemophilus influenzae Infection (including Hib Infection)|||https://www.cdc.gov/hi-disease/index.html
+Haemophilus influenzae Serotype b — see Hib Infection|||https://www.cdc.gov/hi-disease/index.html
+Hand, Foot, and Mouth Disease (HFMD)|||https://www.cdc.gov/hand-foot-mouth/index.html
+Hansen's Disease|||https://www.cdc.gov/leprosy/
+Hantavirus Pulmonary Syndrome (HPS)|||https://www.cdc.gov/hantavirus/
+Harmful Algal Bloom (HAB)-Associated Illness  (HAB)|||https://www.cdc.gov/habs/index.html
+Hazardous Drug Exposures in Healthcare|||https://www.cdc.gov/niosh/topics/hazdrug/
+Head Lice [Pediculus humanus capitis]|||https://www.cdc.gov/parasites/lice/head/
+Health Disparities in Cancer|||https://www.cdc.gov/cancer/healthdisparities/
+Health Disparities in HIV/AIDS, Viral Hepatitis, STDs, and TB|||https://www.cdc.gov/nchhstp/healthdisparities/
+Health Security — see Global Health Security|||https://www.cdc.gov/globalhealth/security/
+Healthcare Associated Infections|||https://www.cdc.gov/hai/
+|surgical site infection (SSI)||https://www.cdc.gov/HAI/ssi/ssi.html
+Healthy Pets, Healthy People — see Animal-Related Diseases|||https://www.cdc.gov/healthypets/
+Healthy Weight|||https://www.cdc.gov/healthyweight/index.html
+Hearing impairment — see Hearing loss, environmental|||https://www.cdc.gov/nceh/hearing_loss/default.html
+Hearing Loss in Children|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Hearing loss, environmental [Hearing impairment]|||https://www.cdc.gov/nceh/hearing_loss/default.html
+Hearing, Early Detection & Intervention|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Heart Disease [Cardiovascular Health]|||https://www.cdc.gov/heartdisease/
+Heart Disease and Genetics|||https://www.cdc.gov/genomics/resources/diseases/heart.htm
+||see also Genetics and Genomics|https://www.cdc.gov/genomics/
+||see also Heart Disease [Cardiovascular Health]|https://www.cdc.gov/heartdisease/
+||see also Heart Disease Awareness|https://www.cdc.gov/Features/HeartMonth/
+Heat Stress|||https://www.cdc.gov/niosh/topics/heatstress/
+Hemoglobinopathies|||https://www.cdc.gov/ncbddd/hemoglobinopathies/index.html
+Hemophilia|||https://www.cdc.gov/ncbddd/hemophilia/
+Hemophilia Treatment Centers (HTC)|||https://www.cdc.gov/ncbddd/hemophilia/HTC.html
+Hemorrhagic Fevers, Viral — see Viral Hemorrhagic Fevers|||https://www.cdc.gov/vhf/virus-families/index.html
+Hendra Virus Disease (HeV Infection)|||https://www.cdc.gov/vhf/hendra/index.html
+Hepatitis A Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/hepa/default.htm
+Hepatitis B Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/hepb/default.htm
+Hepatitis, Viral — see Viral Hepatitis|||https://www.cdc.gov/hepatitis/index.htm
+Hereditary Bleeding Disorders — see Hemophilia|||https://www.cdc.gov/ncbddd/hemophilia/
+Herpes B virus — see B virus Infection|||https://www.cdc.gov/herpesbvirus/index.html
+Herpes Simplex Virus Infection — see Genital Herpes|||https://www.cdc.gov/std/Herpes/default.htm
+Herpes Zoster — see Shingles|||https://www.cdc.gov/shingles/index.html
+Herpes Zoster Vaccination — see Shingles Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/shingles/default.htm
+Herpes, Genital — see Genital Herpes|||https://www.cdc.gov/std/Herpes/default.htm
+Herpesvirus B — see B virus Infection|||https://www.cdc.gov/herpesbvirus/index.html
+Herpesvirus simiae — see B virus Infection|||https://www.cdc.gov/herpesbvirus/index.html
+Heterophyes Infection [Heterophyiasis]|||https://www.cdc.gov/dpdx/heterophyiasis/tx.html
+Heterophyiasis — see Heterophyes Infection|||https://www.cdc.gov/dpdx/heterophyiasis/tx.html
+HeV Infection (Hendra Virus Disease)|||https://www.cdc.gov/vhf/hendra/index.html
+HFMD (Hand, Foot, and Mouth Disease)|||https://www.cdc.gov/hand-foot-mouth/index.html
+Hib Infection [Haemophilus influenzae Serotype b]|||https://www.cdc.gov/hi-disease/index.html
+Hib Vaccine (Haemophilus influenzae Serotype b Vaccination)|||https://www.cdc.gov/vaccines/vpd-vac/hib/default.htm
+High Blood Pressure|||https://www.cdc.gov/bloodpressure/
+Histoplasma capsulatum Infection [Histoplasmosis]|||https://www.cdc.gov/fungal/diseases/histoplasmosis/index.html
+Histoplasmosis — see Histoplasma capsulatum Infection|||https://www.cdc.gov/fungal/diseases/histoplasmosis/index.html
+HIV/AIDS|||https://www.cdc.gov/hiv/
+HIV/AIDS and STDs|||https://www.cdc.gov/std/hiv/default.htm
+Hookworm, Human [Ancylostoma duodenale Infection, Necator americanus Infection] — see Human Hookworm|||https://www.cdc.gov/parasites/hookworm
+Hookworm, Zoonotic — see Zoonotic Hookworm|||https://www.cdc.gov/parasites/zoonotichookworm/
+Horses, Infections from|||https://www.cdc.gov/healthypets/pets/horses.html
+Hot Tub Rash [Pseudomonas dermatitis Infection]|||https://www.cdc.gov/healthyswimming/derm.htm
+HPIV (Human Parainfluenza Viruses)|||https://www.cdc.gov/parainfluenza/index.html
+HPS (Hantavirus Pulmonary Syndrome)|||https://www.cdc.gov/hantavirus/
+HPV Infection (Human Papillomavirus Infection)|||https://www.cdc.gov/hpv/
+HPV Vaccination (Human Papillomavirus Vaccination)|||https://www.cdc.gov/vaccines/vpd-vac/hpv/default.htm
+HPV-Associated Cancers|||https://www.cdc.gov/cancer/hpv/
+HTC (Hemophilia Treatment Centers)|||https://www.cdc.gov/ncbddd/hemophilia/HTC.html
+Human Ehrlichiosis — see Ehrlichiosis, Human|||https://www.cdc.gov/ehrlichiosis/
+Human Hookworm [Ancylostoma duodenale Infection, Necator americanus Infection]|||https://www.cdc.gov/parasites/hookworm
+Human Immunodeficiency Virus — see HIV/AIDS|||https://www.cdc.gov/hiv/
+Human Papillomavirus Infection (HPV Infection)|||https://www.cdc.gov/hpv/
+Human Papillomavirus Vaccination (HPV Vaccination)|||https://www.cdc.gov/vaccines/vpd-vac/hpv/default.htm
+Human Parainfluenza Viruses (HPIV)|||https://www.cdc.gov/parainfluenza/index.html
+Hymenolepis Infection — see Dwarf Tapeworm|||https://www.cdc.gov/parasites/hymenolepis/
+Hypertension — see High Blood Pressure|||https://www.cdc.gov/bloodpressure/
+Hyperthermia — see Extreme Heat|||https://emergency.cdc.gov/disasters/extremeheat/index.asp
+Hypothermia — see Extreme Cold|||https://emergency.cdc.gov/disasters/winter/
+IBD (Inflammatory Bowel Disease)|||https://www.cdc.gov/ibd/
+IMMPaCt (International Micronutrient Malnutrition Prevention and Control Program) — see Micronutrient Malnutrition|||https://www.cdc.gov/nccdphp/dnpa/immpact/index.htm
+Impetigo — see Group A Strep Infection|||https://www.cdc.gov/groupAstrep/index.html
+including Hib Infection (Haemophilus influenzae Infection)|||https://www.cdc.gov/hi-disease/index.html
+Infectious Mononucleosis — see Epstein-Barr Virus Infection|||https://www.cdc.gov/epstein-barr/index.html
+Infertility|||https://www.cdc.gov/reproductivehealth/Infertility/index.htm
+Inflammatory Bowel Disease (IBD)|||https://www.cdc.gov/ibd/
+Influenza|||https://www.cdc.gov/flu/index.htm
+|H1N1 Flu||https://www.cdc.gov/h1n1flu/
+|People at High Risk||https://www.cdc.gov/flu/about/disease/high_risk.htm
+|Seasonal Flu||https://www.cdc.gov/flu/
+|Swine Influenza||https://www.cdc.gov/flu/swineflu/
+||see also H7N9 Influenza|https://www.cdc.gov/flu/avianflu/h7n9-virus.htm
+||see also Influenza|https://www.cdc.gov/flu/index.htm
+Influenza and Cancer — see Cancer and Flu|||https://www.cdc.gov/cancer/flu/
+Influenza in Pigs — see Swine Influenza|||https://www.cdc.gov/flu/swineflu/
+Influenza Vaccination|||https://www.cdc.gov/flu/index.htm
+Influenza, Avian — see Avian Influenza|||https://www.cdc.gov/flu/avianflu/
+Influenza, Pandemic — see Pandemic Flu|||https://www.cdc.gov/flu/pandemic-resources/
+Injury, Healthy Swimming and Recreational Water|||https://www.cdc.gov/healthywater/swimming/injury.html
+International Micronutrient Malnutrition Prevention & Control Program (IMMPaCt) — see Micronutrient Malnutrition|||https://www.cdc.gov/nccdphp/dnpa/immpact/index.htm
+Intestinal Amebae Infection, Nonpathogenic — see Nonpathogenic (Harmless) Intestinal Protozoa|||https://www.cdc.gov/parasites/nonpathprotozoa
+Invasive Candidiasis|||https://www.cdc.gov/fungal/diseases/candidiasis/invasive/index.html
+Isospora Infection [Isosporiasis] — see Cystoisospora Infection|||https://www.cdc.gov/parasites/cystoisospora/index.html
+Japanese Encephalitis (JE)|||https://www.cdc.gov/japaneseencephalitis/
+Japanese Encephalitis (JE) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/j-enceph/default.htm
+Jaundice — see Newborn Jaundice|||https://www.cdc.gov/ncbddd/dd/kernichome.htm
+JE (Japanese Encephalitis)|||https://www.cdc.gov/japaneseencephalitis/
+JE (Japanese Encephalitis) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/j-enceph/default.htm
+K. pneumoniae (Klebsiella pneumoniae)|||https://www.cdc.gov/HAI/organisms/klebsiella/klebsiella.html
+Kala-Azar — see Leishmania Infection|||https://www.cdc.gov/parasites/leishmaniasis/index.html
+Kawasaki Disease (KD)|||https://www.cdc.gov/kawasaki/
+Kawasaki Syndrome — see Kawasaki Disease|||https://www.cdc.gov/kawasaki/
+KD (Kawasaki Disease)|||https://www.cdc.gov/kawasaki/
+Keratitis, Acanthamoeba — see Acanthamoeba Infection|||https://www.cdc.gov/parasites/acanthamoeba/
+Keratitis, Fungal — see Fungal Eye Infections|||https://www.cdc.gov/fungal/diseases/fungal-eye-infections/index.html
+Kernicterus — see Newborn Jaundice|||https://www.cdc.gov/ncbddd/dd/kernichome.htm
+KFD (Kyasanur Forest disease)|||https://www.cdc.gov/vhf/kyasanur/
+Kidney Disease (CKD)|||https://www.cdc.gov/ckd
+Klebsiella pneumoniae (K. pneumoniae)|||https://www.cdc.gov/HAI/organisms/klebsiella/klebsiella.html
+Kyasanur Forest disease (KFD)|||https://www.cdc.gov/vhf/kyasanur/
+La Crosse Encephalitis (LAC)|||https://www.cdc.gov/lac
+La Crosse Encephalitis virus (LACV) — see La Crosse Encephalitis|||https://www.cdc.gov/lac
+LAC (La Crosse Encephalitis)|||https://www.cdc.gov/lac
+LACV (La Crosse Encephalitis virus)|||https://www.cdc.gov/lac
+Lassa Fever|||https://www.cdc.gov/vhf/lassa/
+Latex Allergies|||https://www.cdc.gov/niosh/topics/latex/
+LCM (Lymphocytic Choriomeningitis)|||https://www.cdc.gov/vhf/lcm/index.html
+Lead Poisoning|||https://www.cdc.gov/nceh/lead/
+Legionellosis — see Legionnaires' Disease|||https://www.cdc.gov/legionella/index.html
+Legionnaires' Disease [Legionellosis]|||https://www.cdc.gov/legionella/index.html
+Leishmania Infection [Leishmaniasis]|||https://www.cdc.gov/parasites/leishmaniasis/index.html
+Leishmaniasis — see Leishmania Infection|||https://www.cdc.gov/parasites/leishmaniasis/index.html
+Leprosy — see Hansen's Disease|||https://www.cdc.gov/leprosy/
+Leptospira Infection [Leptospirosis]|||https://www.cdc.gov/leptospirosis/
+Leptospirosis — see Leptospira Infection|||https://www.cdc.gov/leptospirosis/
+Lice|||https://www.cdc.gov/parasites/lice/
+Lice, Body — see Body Lice|||https://www.cdc.gov/parasites/lice/body/
+Lice, Head — see Head Lice|||https://www.cdc.gov/parasites/lice/head/
+Lice, Pubic — see Pubic Lice|||https://www.cdc.gov/parasites/lice/pubic/
+Listeria Infection [Listeriosis]|||https://www.cdc.gov/listeria/index.html
+Listeriosis — see Listeria Infection|||https://www.cdc.gov/listeria/index.html
+Liver Disease and Hepatitis — see Viral Hepatitis|||https://www.cdc.gov/hepatitis/index.htm
+Loa loa Infection — see Loiasis|||https://www.cdc.gov/parasites/loiasis/
+Lockjaw — see Tetanus Disease|||https://www.cdc.gov/tetanus/index.html
+Lockjaw Vaccination — see Tetanus (Lockjaw) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/tetanus/default.htm
+Loiasis [Loa loa Infection]|||https://www.cdc.gov/parasites/loiasis/
+Lou Gehrig's Disease — see ALS|||https://wwwn.cdc.gov/als/
+LUHF (Lujo Hemorrhagic Fever)|||https://www.cdc.gov/vhf/lujo/index.html
+Lujo Hemorrhagic Fever (LUHF)|||https://www.cdc.gov/vhf/lujo/index.html
+Lung Cancer|||https://www.cdc.gov/cancer/lung/
+Lupus (SLE) [Systemic lupus erythematosus]|||https://www.cdc.gov/lupus/
+Lyme Disease [Borrelia burgdorferi Infection]|||https://www.cdc.gov/lyme/
+Lymphatic Filariasis|||https://www.cdc.gov/parasites/lymphaticfilariasis/
+Lymphedema — see Lymphatic Filariasis|||https://www.cdc.gov/parasites/lymphaticfilariasis/
+Lymphocytic Choriomeningitis (LCM)|||https://www.cdc.gov/vhf/lcm/index.html
+MAC (Mycobacterium avium Complex)|||https://www.cdc.gov/HAI/organisms/mycobacterium.html
+Mad Cow Disease (BSE) — see Bovine Spongiform Encephalopathy|||https://www.cdc.gov/prions/bse/index.html
+Malaria|||https://www.cdc.gov/malaria
+Marburg Hemorrhagic Fever|||https://www.cdc.gov/vhf/marburg/
+Marine Toxins|||https://www.cdc.gov/nczved/divisions/dfbmd/diseases/marine_toxins
+MD (Muscular Dystrophy)|||https://www.cdc.gov/ncbddd/musculardystrophy/index.html
+MDR TB (Multidrug-Resistant TB)|||https://www.cdc.gov/tb/topic/drtb/default.htm
+Measles|||https://www.cdc.gov/measles/index.html
+Measles Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/measles/default.htm
+Melioidosis [Burkholderia pseudomallei Infection]|||https://www.cdc.gov/melioidosis/index.html
+Men's Health|||https://www.cdc.gov/men
+Meningitis|||https://www.cdc.gov/meningitis/index.html
+||see also Meningitis|https://www.cdc.gov/meningitis/index.html
+Meningococcal Disease|||https://www.cdc.gov/meningococcal/index.html
+Meningococcal Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/mening/default.htm
+Mental Health|||https://www.cdc.gov/mentalhealth/
+Mental Health and Genetics|||https://www.cdc.gov/genomics/resources/diseases/mental.htm
+||see also Genetics and Genomics|https://www.cdc.gov/genomics/
+||see also Mental Health|https://www.cdc.gov/mentalhealth/
+Mental Retardation|||https://www.cdc.gov/ncbddd/dd/ddmr.htm
+MERS-CoV (Middle East Respiratory Syndrome Coronavirus)|||https://www.cdc.gov/coronavirus/mers/index.html
+Methicillin Resistant Staphylococcus aureus — see MRSA|||https://www.cdc.gov/mrsa
+microalgal bloom-associated illness — see Harmful Algal Bloom (HAB)-Associated Illness|||https://www.cdc.gov/habs/index.html
+Microcephaly|||https://www.cdc.gov/ncbddd/birthdefects/microcephaly.html
+||see also Zika Virus Infection|https://www.cdc.gov/zika/index.html
+||see also Zika Virus Infection and Pregnancy|https://www.cdc.gov/zika/pregnancy/index.html
+Micronutrient Malnutrition|||https://www.cdc.gov/nccdphp/dnpa/immpact/index.htm
+Microsporidia Infection|||https://www.cdc.gov/dpdx/microsporidiosis/index.html
+Middle East Respiratory Syndrome Coronavirus (MERS-CoV)|||https://www.cdc.gov/coronavirus/mers/index.html
+||see also Coronavirus (CoV)|https://www.cdc.gov/coronavirus/index.html
+MMR Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/combo-vaccines/mmrv/vacopt.htm
+Molluscum Contagiosum|||https://www.cdc.gov/ncidod/dvrd/molluscum
+Monkey B virus — see B virus Infection|||https://www.cdc.gov/herpesbvirus/index.html
+Monkeypox|||https://www.cdc.gov/poxvirus/monkeypox/
+Monkeypox Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/monkeypox/default.htm
+Mononucleosis, Infectious — see Epstein-Barr Virus Infection|||https://www.cdc.gov/epstein-barr/index.html
+Motor Vehicle Injuries|||https://www.cdc.gov/Motorvehiclesafety/index.html
+Mouse and Rat Control — see Rodents, Diseases from|||https://www.cdc.gov/rodents
+MRSA [Methicillin Resistant Staphylococcus aureus]|||https://www.cdc.gov/mrsa
+Mucormycosis|||https://www.cdc.gov/fungal/diseases/mucormycosis/index.html
+Mucus — see Cold, Common|||https://www.cdc.gov/features/rhinoviruses/
+Multidrug-Resistant TB (MDR TB)|||https://www.cdc.gov/tb/topic/drtb/default.htm
+Multiple organ dysfunction syndrome — see Sepsis|||https://www.cdc.gov/sepsis/index.html
+Mumps|||https://www.cdc.gov/mumps/index.html
+Mumps Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/mumps/default.htm
+Muscular Dystrophy (MD)|||https://www.cdc.gov/ncbddd/musculardystrophy/index.html
+Musculoskeletal Disorders — see Ergonomic and Musculoskeletal Disorders|||https://www.cdc.gov/niosh/topics/ergonomics/
+Mycobacterium abscessus Infection|||https://www.cdc.gov/HAI/organisms/mycobacterium.html
+Mycobacterium avium Complex (MAC)|||https://www.cdc.gov/HAI/organisms/mycobacterium.html
+Mycobacterium tuberculosis Infection — see Tuberculosis|||https://www.cdc.gov/tb
+Mycoplasma pneumoniae Infection|||https://www.cdc.gov/pneumonia/atypical/mycoplasma/index.html
+Mycotic diseases — see Fungal diseases|||https://www.cdc.gov/fungal/index.html
+Myelomeningocele — see Spina Bifida|||https://www.cdc.gov/ncbddd/spinabifida
+Myiasis|||https://www.cdc.gov/parasites/myiasis/
+Naegleria Infection [Primary Amebic Meningoencephalitis (PAM)]|||https://www.cdc.gov/parasites/naegleria/
+Nairovirus Infection — see Crimean-Congo hemorrhagic fever|||https://www.cdc.gov/vhf/crimean-congo/
+National Amyotrophic Lateral Sclerosis (ALS) Registry — see ALS|||https://wwwn.cdc.gov/als/
+Necrotizing Fasciitis — see Group A Strep Infection|||https://www.cdc.gov/groupAstrep/index.html
+Neglected Tropical Diseases (NTD)|||https://www.cdc.gov/globalhealth/ntd/
+Neisseria gonorrhoeae Infection — see Gonorrhea|||https://www.cdc.gov/std/Gonorrhea/
+Pneumocystis jirovecii pneumonia (previously Pneumocystis carinii)  — see Pneumocystis pneumonia|||https://www.cdc.gov/fungal/diseases/pneumocystis-pneumonia/
+Neurocysticercosis — see Cysticercosis|||https://www.cdc.gov/parasites/cysticercosis/
+Newborn Hearing — see Hearing, Early Detection & Intervention|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Newborn Jaundice [Kernicterus]|||https://www.cdc.gov/ncbddd/dd/kernichome.htm
+Nocardia asteroides Infection — see Nocardiosis|||https://www.cdc.gov/nocardiosis
+Nocardiosis [Nocardia asteroides Infection]|||https://www.cdc.gov/nocardiosis
+noise exposure — see Hearing loss, environmental|||https://www.cdc.gov/nceh/hearing_loss/default.html
+noise, environmental — see Hearing loss, environmental|||https://www.cdc.gov/nceh/hearing_loss/default.html
+noise, recreational — see Hearing loss, environmental|||https://www.cdc.gov/nceh/hearing_loss/default.html
+Non-Polio Enterovirus Infections|||https://www.cdc.gov/non-polio-enterovirus/index.html
+Nonpathogenic (Harmless) Intestinal Protozoa|||https://www.cdc.gov/parasites/nonpathprotozoa
+Norovirus Infection|||https://www.cdc.gov/norovirus/index.html
+Norwalk-like Viruses (NLV) — see Norovirus Infection|||https://www.cdc.gov/norovirus/index.html
+NTD (Neglected Tropical Diseases)|||https://www.cdc.gov/globalhealth/ntd/
+Nutrition|||https://www.cdc.gov/nccdphp/dnpa/nutrition.htm
+OA (Osteoarthritis)|||https://www.cdc.gov/arthritis/basics/osteoarthritis.htm
+Obesity and Genetics|||https://www.cdc.gov/genomics/resources/diseases/obesity/index.htm
+Obesity and Overweight|||https://www.cdc.gov/obesity/index.html
+Obesity and Overweight, Childhood — see Childhood Overweight and Obesity|||https://www.cdc.gov/obesity/childhood/index.html
+Occupational Cancers|||https://www.cdc.gov/niosh/topics/cancer/
+Occupational Skin Conditions — see Skin Conditions, Occupational|||https://www.cdc.gov/niosh/topics/skin/
+Occupational Stress — see Stress, Occupational|||https://www.cdc.gov/niosh/topics/stress
+OHF (Omsk hemorrhagic fever)|||https://www.cdc.gov/vhf/omsk/index.html
+Omsk hemorrhagic fever (OHF)|||https://www.cdc.gov/vhf/omsk/index.html
+Onchocerciasis — see River Blindness|||https://www.cdc.gov/parasites/onchocerciasis/index.html
+Opisthorchis Infection|||https://www.cdc.gov/parasites/opisthorchis/
+Oral Cancer|||https://www.cdc.gov/OralHealth/topics/cancer.htm
+Orf Virus Infection — see Sore Mouth Infection|||https://www.cdc.gov/ncidod/dvrd/orf_virus/
+Oropharyngeal Candidiasis — see Thrush|||https://www.cdc.gov/fungal/diseases/candidiasis/thrush/index.html
+Oroya fever — see Carrión’s disease|||https://www.cdc.gov/bartonella
+Osteoarthritis (OA)|||https://www.cdc.gov/arthritis/basics/osteoarthritis.htm
+Otitis Media — see Ear Infection|||https://www.cdc.gov/getsmart/community/for-patients/common-illnesses/ear-infection.html
+Outbreaks|||https://www.cdc.gov/outbreaks/index.html
+Ovarian and Breast Cancer and Family Health History — see Breast and Ovarian Cancer and Family Health History|||https://www.cdc.gov/genomics/resources/diseases/breast_ovarian_cancer/
+Ovarian Cancer|||https://www.cdc.gov/cancer/ovarian/index.htm
+Overweight and Obesity — see Obesity and Overweight|||https://www.cdc.gov/obesity/index.html
+Overweight and Obesity, Childhood — see Childhood Overweight and Obesity|||https://www.cdc.gov/obesity/childhood/index.html
+PAD (Peripheral Arterial Disease)|||https://www.cdc.gov/DHDSP/data_statistics/fact_sheets/fs_PAD.htm
+Pandemic Flu|||https://www.cdc.gov/flu/pandemic-resources/
+||see also Influenza|https://www.cdc.gov/flu/index.htm
+Paragonimiasis — see Paragonimus Infection|||https://www.cdc.gov/parasites/paragonimus/
+Paragonimus Infection [Paragonimiasis]|||https://www.cdc.gov/parasites/paragonimus/
+Parainfluenza — see Human Parainfluenza Viruses|||https://www.cdc.gov/parainfluenza/index.html
+Parasitic Diseases|||https://www.cdc.gov/parasites/
+Parvovirus B19 Infection — see Fifth Disease|||https://www.cdc.gov/parvovirusB19/index.html
+PCP (Pneumocystis pneumonia)|||https://www.cdc.gov/fungal/diseases/pneumocystis-pneumonia/
+PCV (Pneumococcal Conjugate Vaccine)|||https://www.cdc.gov/vaccines/vpd-vac/pneumo/default.htm
+PE (Pulmonary Embolism)|||https://www.cdc.gov/ncbddd/dvt/index.html
+Pedestrian Injury|||https://www.cdc.gov/ncipc/duip/spotlite/walk_to_school.htm
+Pediculus humanus capitis — see Head Lice|||https://www.cdc.gov/parasites/lice/head/
+Pediculus humanus corporis — see Body Lice|||https://www.cdc.gov/parasites/lice/body/
+Pelvic Inflammatory Disease (PID)|||https://www.cdc.gov/std/PID/STDFact-PID.htm
+Peripheral Arterial Disease (PAD)|||https://www.cdc.gov/DHDSP/data_statistics/fact_sheets/fs_PAD.htm
+Peripheral Arterial Insufficiency — see Peripheral Arterial Disease|||https://www.cdc.gov/DHDSP/data_statistics/fact_sheets/fs_PAD.htm
+Peripheral Arterial Occlusive Disease — see Peripheral Arterial Disease|||https://www.cdc.gov/DHDSP/data_statistics/fact_sheets/fs_PAD.htm
+Peripheral Vascular Disease — see Peripheral Arterial Disease|||https://www.cdc.gov/DHDSP/data_statistics/fact_sheets/fs_PAD.htm
+Pertussis (Whooping Cough)|||https://www.cdc.gov/pertussis
+Pertussis (Whooping Cough) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/pertussis/default.htm
+Pet-Related Diseases — see Animal-Related Diseases|||https://www.cdc.gov/healthypets/
+Phthiriasis — see Pubic Lice|||https://www.cdc.gov/parasites/lice/pubic/
+PID (Pelvic Inflammatory Disease)|||https://www.cdc.gov/std/PID/STDFact-PID.htm
+Pigs, Influenza in — see Swine Influenza|||https://www.cdc.gov/flu/swineflu/
+Pink Eye [Conjunctivitis]|||https://www.cdc.gov/conjunctivitis/index.html
+Pinworm Infection [Enterobius vermicularis Infection]|||https://www.cdc.gov/parasites/pinworm/
+Plague [Yersinia pestis Infection]|||https://www.cdc.gov/plague/
+Pneumococcal Conjugate Vaccine (PCV)|||https://www.cdc.gov/vaccines/vpd-vac/pneumo/default.htm
+Pneumococcal Disease|||https://www.cdc.gov/pneumococcal/index.html
+Pneumococcal Polysaccharide Vaccine (PPV)|||https://www.cdc.gov/vaccines/vpd-vac/pneumo/default.htm
+Pneumoconioses, Coal Workers' — see Black Lung|||https://www.cdc.gov/niosh/topics/pneumoconioses/
+Pneumocystis carinii Pneumonia (PCP) Infection — see Pneumocystis pneumonia|||https://www.cdc.gov/fungal/diseases/pneumocystis-pneumonia/
+Pneumocystis pneumonia (PCP) [Pneumocystis jirovecii pneumonia (previously Pneumocystis carinii) ]|||https://www.cdc.gov/fungal/diseases/pneumocystis-pneumonia/
+Pneumonia|||https://www.cdc.gov/pneumonia/
+Polio Infection [Poliomyelitis Infection]|||https://www.cdc.gov/polio/
+Polio Vaccination [Poliomyelitis Vaccination]|||https://www.cdc.gov/vaccines/vpd-vac/polio/default.htm
+Poliomyelitis Infection — see Polio Infection|||https://www.cdc.gov/polio/
+Poliomyelitis Vaccination — see Polio Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/polio/default.htm
+Pontiac Fever — see Legionnaires' Disease|||https://www.cdc.gov/legionella/index.html
+Powassan (POW) virus|||https://www.cdc.gov/powassan
+Poxvirus Infections|||https://www.cdc.gov/poxvirus/index.html
+PPV (Pneumococcal Polysaccharide Vaccine)|||https://www.cdc.gov/vaccines/vpd-vac/pneumo/default.htm
+Pregnancy|||https://www.cdc.gov/pregnancy
+Primary Amebic Meningoencephalitis (PAM) — see Naegleria Infection|||https://www.cdc.gov/parasites/naegleria/
+Prion Diseases (TSEs) [Transmissible spongiform encephalopathies]|||https://www.cdc.gov/prions/
+Prostate Cancer|||https://www.cdc.gov/cancer/prostate/index.htm
+Pseudomonas aeruginosa Infection|||https://www.cdc.gov/hai/organisms/pseudomonas.html
+Pseudomonas dermatitis Infection — see Hot Tub Rash|||https://www.cdc.gov/healthyswimming/derm.htm
+Psittacosis|||https://www.cdc.gov/pneumonia/atypical/psittacosis.html
+Psoriasis|||https://www.cdc.gov/psoriasis
+Pubic Lice [Phthiriasis]|||https://www.cdc.gov/parasites/lice/pubic/
+Pulmonary Embolism (PE) — see Deep Vein Thrombosis|||https://www.cdc.gov/ncbddd/dvt/index.html
+Pulmonary Hypertension|||https://www.cdc.gov/DHDSP/data_statistics/fact_sheets/fs_pulmonary_hypertension.htm
+Q Fever [Coxiella burnetii Infection]|||https://www.cdc.gov/qfever
+RA (Rheumatoid Arthritis)|||https://www.cdc.gov/arthritis/basics/rheumatoid.htm
+Rabies|||https://www.cdc.gov/rabies/
+Rabies Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/rabies/default.htm
+Raccoon Roundworm Infection [Baylisascaris Infection]|||https://www.cdc.gov/parasites/baylisascaris/index.html
+Rat-Bite Fever (RBF) [Streptobacillus moniliformis Infection]|||https://www.cdc.gov/rat-bite-fever/
+RBF (Rat-Bite Fever)|||https://www.cdc.gov/rat-bite-fever/
+Recalled Vaccines|||https://www.cdc.gov/nip/vaccine/recalls/default.htm
+Recreational Water Illness (RWI)|||https://www.cdc.gov/healthywater/swimming/rwi.html
+Reptiles, Infections from|||https://www.cdc.gov/healthypets/pets/reptiles.html
+Respiratory Syncytial Virus Infection (RSV)|||https://www.cdc.gov/rsv/
+Rheumatoid Arthritis (RA)|||https://www.cdc.gov/arthritis/basics/rheumatoid.htm
+Rickettsia rickettsii Infection — see Rocky Mountain Spotted Fever|||https://www.cdc.gov/rmsf/index.html
+Rickettsia, Spotted Fever Group — see Spotted Fever Group Rickettsia|||https://www.cdc.gov/otherspottedfever/
+Rickettsial Diseases|||https://www.cdc.gov/ticks
+Rift Valley Fever (RVF)|||https://www.cdc.gov/vhf/rvf/
+Ringworm [Dermatophyte Infection]|||https://www.cdc.gov/fungal/diseases/ringworm/index.html
+Ringworm from Animals|||https://www.cdc.gov/healthypets/diseases/ringworm.html
+River Blindness [Onchocerciasis]|||https://www.cdc.gov/parasites/onchocerciasis/index.html
+RMSF (Rocky Mountain Spotted Fever)|||https://www.cdc.gov/rmsf/index.html
+Rocky Mountain Spotted Fever (RMSF) [Rickettsia rickettsii Infection]|||https://www.cdc.gov/rmsf/index.html
+Rodent Control — see Rodents, Diseases from|||https://www.cdc.gov/rodents
+Rodents — see Rat-Bite Fever|||https://www.cdc.gov/rat-bite-fever/
+Rodents, Diseases from|||https://www.cdc.gov/rodents
+Rotavirus Infection|||https://www.cdc.gov/rotavirus/index.html
+Rotavirus Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/rotavirus/default.htm
+RSV (Respiratory Syncytial Virus Infection)|||https://www.cdc.gov/rsv/
+Rubella (German Measles) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/rubella/default.htm
+Rubeola — see Measles|||https://www.cdc.gov/measles/index.html
+Runny Nose — see Cold, Common|||https://www.cdc.gov/features/rhinoviruses/
+RVF (Rift Valley Fever)|||https://www.cdc.gov/vhf/rvf/
+RWI (Recreational Water Illness)|||https://www.cdc.gov/healthywater/swimming/rwi.html
+Salmonella typhi infection — see Typhoid Fever|||https://www.cdc.gov/typhoid-fever/index.html
+Salmonella Infection [Salmonellosis]|||https://www.cdc.gov/salmonella
+Salmonella Infection from Animals|||https://www.cdc.gov/healthypets/diseases/salmonella.html
+Salmonellosis — see Salmonella Infection|||https://www.cdc.gov/salmonella
+Salt|||https://www.cdc.gov/salt/
+||see also Heart Disease [Cardiovascular Health]|https://www.cdc.gov/heartdisease/
+||see also High Blood Pressure|https://www.cdc.gov/bloodpressure/
+Sappinia diploidea and Sappinia pedata — see Sappinia Infection|||https://www.cdc.gov/parasites/sappinia/
+Sappinia Infection [Sappinia diploidea and Sappinia pedata]|||https://www.cdc.gov/parasites/sappinia/
+SARS [Severe Acute Respiratory Syndrome]|||https://www.cdc.gov/sars/index.html
+Scabies|||https://www.cdc.gov/parasites/scabies
+Scarlet Fever|||https://www.cdc.gov/Features/ScarletFever/
+Schistosoma Infection — see Schistosomiasis|||https://www.cdc.gov/parasites/schistosomiasis/
+Schistosomiasis [Schistosoma Infection]|||https://www.cdc.gov/parasites/schistosomiasis/
+Seasonal Flu|||https://www.cdc.gov/flu/
+Sepsis [Septicemia]|||https://www.cdc.gov/sepsis/index.html
+Septic shock — see Sepsis|||https://www.cdc.gov/sepsis/index.html
+Septicemia — see Sepsis|||https://www.cdc.gov/sepsis/index.html
+Severe Acute Respiratory Syndrome — see SARS|||https://www.cdc.gov/sars/index.html
+Sexually Transmitted Disease Surveillance Reports|||https://www.cdc.gov/nchstp/dstd/Stats_Trends/Stats_and_Trends.htm
+Sexually Transmitted Diseases (STDs)|||https://www.cdc.gov/std/default.htm
+|Bacterial Vaginosis (BV)||https://www.cdc.gov/std/bv/default.htm
+|Chlamydia [Chlamydia trachomatis Disease]||https://www.cdc.gov/std/chlamydia/default.htm
+|Genital Herpes [Herpes Simplex Virus Infection]||https://www.cdc.gov/std/Herpes/default.htm
+|Gonorrhea [Neisseria gonorrhoeae Infection]||https://www.cdc.gov/std/Gonorrhea/
+|Human Papillomavirus Infection (HPV Infection)||https://www.cdc.gov/hpv/
+|Pelvic Inflammatory Disease (PID)||https://www.cdc.gov/std/PID/STDFact-PID.htm
+|Syphilis [Treponema pallidum Infection]||https://www.cdc.gov/std/syphilis/default.htm
+|Trichomoniasis [Trichomonas Infection]||https://www.cdc.gov/std/trichomonas/default.htm
+||see also HIV/AIDS and STDs|https://www.cdc.gov/std/hiv/default.htm
+SFGR (Spotted Fever Group Rickettsia)|||https://www.cdc.gov/otherspottedfever/
+Shiga toxin-producing E. coli (STEC) — see E. coli Infection|||https://www.cdc.gov/ecoli/
+Shigella Infection [Shigellosis]|||https://www.cdc.gov/shigella/index.html
+Shigellosis — see Shigella Infection|||https://www.cdc.gov/shigella/index.html
+Shingles [Varicella Zoster Virus (VZV)]|||https://www.cdc.gov/shingles/index.html
+Shingles Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/shingles/default.htm
+Sickle Cell Disease|||https://www.cdc.gov/ncbddd/sicklecell/
+SIDS (Sudden Infant Death Syndrome)|||https://www.cdc.gov/SIDS/index.htm
+Sinus Infection [Sinusitus]|||https://www.cdc.gov/getsmart/antibiotic-use/URI/sinus-infection.html
+Sinusitus — see Sinus Infection|||https://www.cdc.gov/getsmart/antibiotic-use/URI/sinus-infection.html
+Skin Cancer|||https://www.cdc.gov/cancer/skin/
+Skin Cancer and Genetics|||https://www.cdc.gov/genomics/resources/diseases/skin.htm
+||see also Family History|https://www.cdc.gov/features/familyhealthhistory/index.html
+||see also Genetics and Genomics|https://www.cdc.gov/genomics/
+||see also Skin Cancer|https://www.cdc.gov/cancer/skin/
+Skin Conditions, Occupational|||https://www.cdc.gov/niosh/topics/skin/
+SLE (Lupus)|||https://www.cdc.gov/lupus/
+Sleep and Sleep Disorders|||https://www.cdc.gov/sleep
+Sleeping Sickness [African Trypanosomiasis]|||https://www.cdc.gov/parasites/sleepingsickness/
+Smallpox|||https://www.cdc.gov/smallpox/
+Smoking and Tobacco Use|||https://www.cdc.gov/tobacco
+Sodium — see Salt|||https://www.cdc.gov/salt/
+Soil Transmitted Helminths|||https://www.cdc.gov/parasites/sth/
+Sore Mouth Infection [Orf Virus Infection]|||https://www.cdc.gov/ncidod/dvrd/orf_virus/
+Sore Throat|||https://www.cdc.gov/Features/strepthroat/
+Southern Tick-Associated Rash Illness (STARI)|||https://www.cdc.gov/stari
+Spina Bifida [Myelomeningocele]|||https://www.cdc.gov/ncbddd/spinabifida
+Spirillum minus Infection — see Rat-Bite Fever|||https://www.cdc.gov/rat-bite-fever/
+Sporothrix schenckii infection — see Sporotrichosis|||https://www.cdc.gov/fungal/diseases/sporotrichosis/index.html
+Sporotrichosis [Sporothrix schenckii infection]|||https://www.cdc.gov/fungal/diseases/sporotrichosis/index.html
+Spotted Fever Group Rickettsia (SFGR)|||https://www.cdc.gov/otherspottedfever/
+Staph — see Staphylococcus aureus Infection|||https://www.cdc.gov/HAI/organisms/staph.html
+Staphylococcus aureus Infection|||https://www.cdc.gov/HAI/organisms/staph.html
+STARI (Southern Tick-Associated Rash Illness)|||https://www.cdc.gov/stari
+STDs (Sexually Transmitted Diseases)|||https://www.cdc.gov/std/default.htm
+STDs and HIV/AIDS — see HIV/AIDS and STDs|||https://www.cdc.gov/std/hiv/default.htm
+STEC (Shiga toxin-producing E. coli)|||https://www.cdc.gov/ecoli/
+Strep Infection, Group A — see Group A Strep Infection|||https://www.cdc.gov/groupAstrep/index.html
+Strep Infection, Group B — see Group B Strep Infection|||https://www.cdc.gov/groupbstrep/index.html
+Strep Throat — see Sore Throat|||https://www.cdc.gov/Features/strepthroat/
+Streptobacillus moniliformis Infection — see Rat-Bite Fever|||https://www.cdc.gov/rat-bite-fever/
+Streptococcus pneumoniae Infection|||https://www.cdc.gov/pneumococcal/clinicians/clinical-features.html
+Stress, Occupational|||https://www.cdc.gov/niosh/topics/stress
+Stroke|||https://www.cdc.gov/stroke/
+Stroke and Genetics|||https://www.cdc.gov/genomics/resources/diseases/stroke.htm
+||see also Genetics and Genomics|https://www.cdc.gov/genomics/
+||see also Stroke|https://www.cdc.gov/stroke/
+Strongyloidiasis — see Strongyloidiasis - see Strongyloides Infection|||https://www.cdc.gov/parasites/strongyloides/
+Strongyloidiasis - see Strongyloides Infection [Strongyloidiasis]|||https://www.cdc.gov/parasites/strongyloides/
+Sudden Infant Death Syndrome (SIDS)|||https://www.cdc.gov/SIDS/index.htm
+Surveillance Reports, Sexually Transmitted Disease — see Sexually Transmitted Disease Surveillance Reports|||https://www.cdc.gov/nchstp/dstd/Stats_Trends/Stats_and_Trends.htm
+Swimmer's Itch [Cercarial Dermatitis]|||https://www.cdc.gov/parasites/swimmersitch/
+Swimming-related Illness — see Recreational Water Illness|||https://www.cdc.gov/healthywater/swimming/rwi.html
+Swine Influenza|||https://www.cdc.gov/flu/swineflu/
+Symptom Relief for Upper Respiratory Infections|||https://www.cdc.gov/getsmart/community/for-patients/symptom-relief.html
+Syphilis [Treponema pallidum Infection]|||https://www.cdc.gov/std/syphilis/default.htm
+Systemic lupus erythematosus — see Lupus|||https://www.cdc.gov/lupus/
+Taenia Infection — see Tapeworm Infection|||https://www.cdc.gov/parasites/taeniasis/
+Tapeworm Infection [Taenia Infection]|||https://www.cdc.gov/parasites/taeniasis/
+Tapeworm, Dog and Cat Flea [Dipylidium Infection]|||https://www.cdc.gov/parasites/dipylidium/
+TB (Tuberculosis)|||https://www.cdc.gov/tb
+TB (Tuberculosis) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/tb/default.htm
+TB and HIV Coinfection|||https://www.cdc.gov/tb/topic/TBHIVcoinfection/default.htm
+TB and the African-American Communtiy|||https://www.cdc.gov/tb/topic/populations/TBinAfricanAmericans/default.htm
+TB Data & Statistics|||https://www.cdc.gov/tb/statistics/default.htm
+TB Education and Training Network|||https://www.cdc.gov/tb/education/Tbetn/default.htm
+TB in African-Americans — see TB and the African-American Communtiy|||https://www.cdc.gov/tb/topic/populations/TBinAfricanAmericans/default.htm
+TB Surveillance Reports — see TB Data & Statistics|||https://www.cdc.gov/tb/statistics/default.htm
+TB Testing & Diagnosis|||https://www.cdc.gov/tb/topic/testing/default.htm
+TBI (Traumatic Brain Injury)|||https://www.cdc.gov/TraumaticBrainInjury/
+Testicular Cancer|||https://www.cdc.gov/des/consumers/about/concerns_sons.html
+Tetanus (Lockjaw) Infection|||https://www.cdc.gov/tetanus/index.html
+Tetanus (Lockjaw) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/tetanus/default.htm
+Tetanus Disease [Clostridium tetani Infection]|||https://www.cdc.gov/tetanus/index.html
+Thalassemia — see Cooley's Anemia|||https://www.cdc.gov/ncbddd/thalassemia/
+Thoracic Aortic Aneurysm — see Aortic Aneurysm|||https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_aortic_aneurysm.htm
+Throat, Sore — see Sore Throat|||https://www.cdc.gov/Features/strepthroat/
+Throat, Strep — see Sore Throat|||https://www.cdc.gov/Features/strepthroat/
+Thrombophilia — see Clotting Disorders|||https://www.cdc.gov/ncbddd/hemophilia/diagnosis.html
+Thrombosis — see Clotting Disorders|||https://www.cdc.gov/ncbddd/hemophilia/diagnosis.html
+Thrush [Oropharyngeal Candidiasis]|||https://www.cdc.gov/fungal/diseases/candidiasis/thrush/index.html
+Tickborne Diseases — see Ticks|||https://www.cdc.gov/ticks/index.html
+Ticks|||https://www.cdc.gov/ticks/index.html
+|Anaplasmosis, Human||https://www.cdc.gov/anaplasmosis/
+|Babesiosis [Babesia Infection]||https://www.cdc.gov/parasites/babesiosis/
+|Ehrlichiosis, Human||https://www.cdc.gov/ticks/diseases/ehrlichiosis/
+|Lyme Disease [Borrelia burgdorferi Infection]||https://www.cdc.gov/lyme/
+|Powassan (POW) virus||https://www.cdc.gov/powassan
+|Rocky Mountain Spotted Fever (RMSF) [Rickettsia rickettsii Infection]||https://www.cdc.gov/rmsf/index.html
+|Southern Tick-Associated Rash Illness (STARI)||https://www.cdc.gov/stari
+|Tularemia [Francisella tularensis Infection]||https://www.cdc.gov/Tularemia/
+Tinea — see Ringworm|||https://www.cdc.gov/fungal/diseases/ringworm/index.html
+Tobacco Use, Smoking and — see Smoking and Tobacco Use|||https://www.cdc.gov/tobacco
+Tourette Syndrome  (TS)|||https://www.cdc.gov/ncbddd/tourette/
+Toxocara Infection — see Toxocariasis|||https://www.cdc.gov/parasites/toxocariasis/
+Toxocariasis [Toxocara Infection]|||https://www.cdc.gov/parasites/toxocariasis/
+Toxoplasma Infection — see Toxoplasmosis|||https://www.cdc.gov/parasites/toxoplasmosis/
+Toxoplasmosis [Toxoplasma Infection]|||https://www.cdc.gov/parasites/toxoplasmosis/
+Trachoma Infection|||https://www.cdc.gov/globalhealth/ntd/diseases/trachoma_burden.html
+Transmissible spongiform encephalopathies — see Prion Diseases|||https://www.cdc.gov/prions/
+Traumatic Brain Injury (TBI)|||https://www.cdc.gov/TraumaticBrainInjury/
+Traumatic Occupational Injuries|||https://www.cdc.gov/niosh/injury/
+Trench fever [Bartonella quintana Infection]|||https://www.cdc.gov/bartonella
+Treponema pallidum Infection — see Syphilis|||https://www.cdc.gov/std/syphilis/default.htm
+Trichinellosis (Trichinosis)|||https://www.cdc.gov/parasites/trichinellosis/
+Trichomonas Infection — see Trichomoniasis|||https://www.cdc.gov/std/trichomonas/default.htm
+Trichomoniasis [Trichomonas Infection]|||https://www.cdc.gov/std/trichomonas/default.htm
+Trichuriasis — see Whipworm Infection|||https://www.cdc.gov/parasites/whipworm/
+Trisomy 21 — see Down Syndrome|||https://www.cdc.gov/ncbddd/birthdefects/DownSyndrome.html
+Trypanosoma cruzi Infection — see Chagas Disease|||https://www.cdc.gov/parasites/chagas/
+Trypanosomiasis, African — see Sleeping Sickness|||https://www.cdc.gov/parasites/sleepingsickness/
+TS (Tourette Syndrome )|||https://www.cdc.gov/ncbddd/tourette/
+TSEs (Prion Diseases)|||https://www.cdc.gov/prions/
+Tuberculosis (TB) [Mycobacterium tuberculosis Infection]|||https://www.cdc.gov/tb
+Tuberculosis (TB) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/tb/default.htm
+Tuberculosis and HIV Coinfection — see TB and HIV Coinfection|||https://www.cdc.gov/tb/topic/TBHIVcoinfection/default.htm
+Tuberculosis Skin Test — see TB Testing & Diagnosis|||https://www.cdc.gov/tb/topic/testing/default.htm
+Tuberculosis Training — see TB Education and Training Network|||https://www.cdc.gov/tb/education/Tbetn/default.htm
+Tuberculosis Vaccine (BCG)|||https://www.cdc.gov/tb/topic/vaccines/default.htm
+Tularemia [Francisella tularensis Infection]|||https://www.cdc.gov/Tularemia/
+||see also Ticks|https://www.cdc.gov/ticks/index.html
+Typhoid Fever [Salmonella typhi infection]|||https://www.cdc.gov/typhoid-fever/index.html
+Typhoid Fever Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/typhoid/default.htm
+Typhus Fevers|||https://wwwnc.cdc.gov/travel/yellowBookCh4-Rickettsial.aspx
+Ulcerative Colitis — see Inflammatory Bowel Disease|||https://www.cdc.gov/ibd/
+Undulant Fever — see Brucella Infection|||https://www.cdc.gov/brucellosis/index.html
+Unexplained Respiratory Disease Outbreaks (URDO)|||https://emergency.cdc.gov/urdo/
+Universal Newborn Hearing Screening — see Hearing, Early Detection & Intervention|||https://www.cdc.gov/ncbddd/hearingloss/index.html
+Upper Respiratory Infection Symptom Relief — see Symptom Relief for Upper Respiratory Infections|||https://www.cdc.gov/getsmart/community/for-patients/symptom-relief.html
+URDO (Unexplained Respiratory Disease Outbreaks)|||https://emergency.cdc.gov/urdo/
+Uterine Cancer|||https://www.cdc.gov/cancer/uterine/
+Vaccination, American Indian and Alaska Native — see American Indian and Alaska Native Vaccination|||https://www.cdc.gov/features/aianflu/
+Vaginal and Vulvar Cancers|||https://www.cdc.gov/cancer/vagvulv/
+Vaginal Candidiasis — see Genital Candidiasis|||https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html
+Valley Fever [Coccidioidomycosis]|||https://www.cdc.gov/fungal/diseases/coccidioidomycosis/index.html
+Vancomycin-Intermediate/Resistant Staphylococcus aureus Infections [VISA/VRSA]|||https://www.cdc.gov/HAI/organisms/visa_vrsa/visa_vrsa.html
+Vancomycin-resistant Enterococci Infection (VRE)|||https://www.cdc.gov/HAI/organisms/vre/vre.html
+Variant Creutzfeldt-Jakob Disease (vCJD)|||https://www.cdc.gov/prions/vcjd/index.html
+Variant Viruses - see Influenza|||https://www.cdc.gov/flu/swineflu/variant.htm
+Varicella Disease — see Chickenpox|||https://www.cdc.gov/chickenpox/index.html
+Varicella Vaccination — see Chickenpox Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/varicella/default.htm
+Varicella Zoster Virus (VZV) — see Shingles|||https://www.cdc.gov/shingles/index.html
+Varicella-Zoster Virus Infection|||https://www.cdc.gov/shingles/index.html
+Variola Major Virus Infection — see Smallpox|||https://www.cdc.gov/smallpox/
+Variola Minor Virus Infection — see Smallpox|||https://www.cdc.gov/smallpox/
+vCJD (Variant Creutzfeldt-Jakob Disease)|||https://www.cdc.gov/prions/vcjd/index.html
+verruga peruana — see Carrión’s disease|||https://www.cdc.gov/bartonella
+VHF (Viral Hemorrhagic Fevers)|||https://www.cdc.gov/vhf/virus-families/index.html
+Vibrio cholerae Infection — see Cholera|||https://www.cdc.gov/cholera/
+Vibrio Illness [Vibriosis]|||https://www.cdc.gov/vibrio/index.html
+Vibriosis — see Vibrio Illness|||https://www.cdc.gov/vibrio/index.html
+Viral Hemorrhagic Fevers (VHF)|||https://www.cdc.gov/vhf/virus-families/index.html
+|Alkhurma hemorrhagic fever (AHF)||https://www.cdc.gov/vhf/alkhurma/
+|Chapare Hemorrhagic Fever (CHHF)||https://www.cdc.gov/vhf/chapare/index.html
+|Crimean-Congo hemorrhagic fever (CCHF) [Nairovirus Infection]||https://www.cdc.gov/vhf/crimean-congo/
+|Ebola Virus Disease (EVD)||https://www.cdc.gov/vhf/ebola/
+|Hantavirus Pulmonary Syndrome (HPS)||https://www.cdc.gov/hantavirus/
+|Kyasanur Forest disease (KFD)||https://www.cdc.gov/vhf/kyasanur/
+|Lassa Fever||https://www.cdc.gov/vhf/lassa/
+|Lujo Hemorrhagic Fever (LUHF)||https://www.cdc.gov/vhf/lujo/index.html
+|Marburg Hemorrhagic Fever||https://www.cdc.gov/vhf/marburg/
+|Omsk hemorrhagic fever (OHF)||https://www.cdc.gov/vhf/omsk/index.html
+|Rift Valley Fever (RVF)||https://www.cdc.gov/vhf/rvf/
+Viral Hepatitis|||https://www.cdc.gov/hepatitis/index.htm
+Viral Meningitis [Aseptic Meningitis]|||https://www.cdc.gov/meningitis/viral.html
+||see also Meningitis [Meningococcal Disease]|https://www.cdc.gov/meningitis/
+VISA/VRSA — see Vancomycin-Intermediate/Resistant Staphylococcus aureus Infections|||https://www.cdc.gov/HAI/organisms/visa_vrsa/visa_vrsa.html
+Vision Impairment|||https://www.cdc.gov/ncbddd/dd/ddvi.htm
+Von Willebrand Disease — see VWD|||https://www.cdc.gov/ncbddd/vwd/
+VRE (Vancomycin-resistant Enterococci Infection)|||https://www.cdc.gov/HAI/organisms/vre/vre.html
+Vulvovaginal Candidiasis — see Genital Candidiasis|||https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html
+VVC (Genital Candidiasis)|||https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html
+VWD [Von Willebrand Disease]|||https://www.cdc.gov/ncbddd/vwd/
+VZV (Varicella Zoster Virus) — see Shingles|||https://www.cdc.gov/shingles/index.html
+Weight, Healthy — see Healthy Weight|||https://www.cdc.gov/healthyweight/index.html
+West Nile Virus Infection (WNV Infection)|||https://www.cdc.gov/westnile
+Whipworm Infection [Trichuriasis]|||https://www.cdc.gov/parasites/whipworm/
+Whitmore's Disease — see Melioidosis|||https://www.cdc.gov/melioidosis/index.html
+Whooping Cough — see Pertussis (Whooping Cough)|||https://www.cdc.gov/pertussis
+Whooping Cough (Pertussis) Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/pertussis/default.htm
+Wildlife, Infections from|||https://www.cdc.gov/healthypets/pets/wildlife.html
+Winter Storms — see Extreme Cold|||https://emergency.cdc.gov/disasters/winter/
+WNV Infection (West Nile Virus Infection)|||https://www.cdc.gov/westnile
+Women's Bleeding Disorders|||https://www.cdc.gov/ncbddd/blooddisorders/women/
+Women's Health|||https://www.cdc.gov/women
+XDR TB (Extensively Drug-Resistant TB)|||https://www.cdc.gov/tb/topic/drtb/xdrtb.htm
+Xenotropic Murine Leukemia Virus-related Virus Infection — see XMRV Infection|||https://www.cdc.gov/xmrv/
+XMRV Infection [Xenotropic Murine Leukemia Virus-related Virus Infection]|||https://www.cdc.gov/xmrv/
+Yeast Infection — see Genital Candidiasis|||https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html
+Yellow Fever|||https://www.cdc.gov/yellowfever/
+Yellow Fever Vaccination|||https://www.cdc.gov/vaccines/vpd-vac/yf/default.htm
+Yersinia enterocolitica Infection — see Yersiniosis|||https://www.cdc.gov/yersinia/
+Yersinia pestis Infection — see Plague|||https://www.cdc.gov/plague/
+Yersiniosis [Yersinia enterocolitica Infection]|||https://www.cdc.gov/yersinia/
+Zika Virus Infection|||https://www.cdc.gov/zika/index.html
+Zoonotic Diseases from Animals — see Animal-Related Diseases|||https://www.cdc.gov/healthypets/
+Zoonotic enteric diseases — see Gastrointestinal Diseases from Animals|||https://www.cdc.gov/zoonotic/gi/index.html
+Zoonotic Hookworm|||https://www.cdc.gov/parasites/zoonotichookworm/
+Zoster — see Shingles|||https://www.cdc.gov/shingles/index.html
+Zygomycosis — see Mucormycosis|||https://www.cdc.gov/fungal/diseases/mucormycosis/index.html
